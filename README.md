@@ -2,7 +2,7 @@
 
 A lightweight Go service that receives [FleetDM](https://fleetdm.com/) webhook payloads and forwards them as formatted notifications to [ntfy](https://ntfy.sh/).
 
-![Example Alert](example-alert.png)
+![Example Alert](example.png)
 
 ## Features
 
