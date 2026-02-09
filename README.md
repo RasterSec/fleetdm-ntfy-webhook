@@ -71,7 +71,3 @@ Or with Docker:
 ```bash
 docker build -t fleet-ntfy-webhook .
 ```
-
-## License
-
-MIT
